@@ -17,8 +17,8 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://natiaker.github.io/QR-code-component/)
-- Solution URL: [Add solution URL here](https://github.com/natiaker/QR-code-component)
+- Live Site URL: [Live site](https://natiaker.github.io/QR-code-component/)
+- Solution URL: [Solution URL](https://github.com/natiaker/QR-code-component)
 
 ### Built with
 
